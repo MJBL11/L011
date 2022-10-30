@@ -1,5 +1,4 @@
 {
-"test":{
 "x":true,
 "y":true,
 "z":"https://www.google.com.hk/",
@@ -7,5 +6,4 @@
 "e2":"https://mail.google",
 "e3":"https://news.google",
 "a":"美国|google云"
-}
 }
